@@ -1,0 +1,17 @@
+.post .author {
+  margin-bottom: 80px;
+  font-style: italic;
+}
+
+#noun {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+}
+
+.post h1 {
+  font-size: 70px;
+  line-height: 95px;
+}
+.post h1 span {
+  background-color: var(--yellow);
+}
