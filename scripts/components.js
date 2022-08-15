@@ -23,7 +23,7 @@ const Navigation = /*html*/ `
 </nav>
 `;
 
-const isNotHome = window.location.pathname !== '/';
+const isNotHome = window.location.pathname !== '/final-project-1/';
 
 const Header = /*html*/ `
 <header>
