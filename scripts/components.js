@@ -2,7 +2,7 @@ const Navigation = /*html*/ `
 <nav>
     <ul>
         <li>
-        <a href="/">
+        <a href="/final-project-1/">
             <svg
             xmlns="http://www.w3.org/2000/svg"
             width="16"
@@ -28,7 +28,7 @@ const isNotHome = window.location.pathname !== '/';
 const Header = /*html*/ `
 <header>
     <div class="logo">
-        <a href="/">
+        <a href="/final-project-1/">
             un<span>equip</span>
         </a>
     </div>
