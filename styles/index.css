@@ -3,12 +3,17 @@
 }
 
 :root {
+  /* color scheme */
+  /* black and white are also used, but not listed */
   --red: #ff7b7b;
   --blue: #7d7bff;
   --yellow: #f8ff7b;
-  /* fonts */
+  /* Fonts */
+  /* Logo */
   --overlock: 'Overlock', sans-serif;
+  /* Headers */
   --cabin: 'Cabin', sans-serif;
+  /* Paragraphs */
   --sanchez: 'Sanchez', sans-serif;
 }
 
