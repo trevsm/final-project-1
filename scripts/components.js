@@ -2,7 +2,7 @@ const Navigation = /*html*/ `
 <nav>
     <ul>
         <li>
-        <a href="/final-project-1/">
+        <a href="/">
             <svg
             xmlns="http://www.w3.org/2000/svg"
             width="16"
@@ -23,12 +23,12 @@ const Navigation = /*html*/ `
 </nav>
 `;
 
-const isNotHome = window.location.pathname !== '/final-project-1/';
+const isNotHome = window.location.pathname !== '/';
 
 const Header = /*html*/ `
 <header>
     <div class="logo">
-        <a href="/final-project-1/">
+        <a href="/">
             un<span>equip</span>
         </a>
     </div>
