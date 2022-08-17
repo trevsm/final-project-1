@@ -1,4 +1,9 @@
 function main() {
+  // only show page after all scripts are loaded
+  document.addEventListener('DOMContentLoaded', function () {
+    document.body.style.opacity = 1;
+  });
+
   // This adds the header and footer to the page dynamically.
   // So there is no need to add them to each page
   const page = document.querySelector('main');
